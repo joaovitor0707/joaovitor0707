@@ -1,5 +1,5 @@
 # Olá. Seja bem vindo ao meu perfil 👋
-## Aquii você encontrara informações sobr tecnologia e programação . Veja meus repositórios.
+## Aquii você encontrara informações sobre tecnologia e programação . Veja meus repositórios.
 <!--
 **joaovitor0707/joaovitor0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
